@@ -37,7 +37,7 @@
 
 ### 📫 ¿Quieres contactarme?
 Puedes encontrarme en:
-- [Email](a.lop3z6783@gmail.com)
+- [Email](mailto:a.lop3z6783@gmail.com)
 
 ---
 
