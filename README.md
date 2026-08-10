@@ -16,7 +16,7 @@
 
 Soy desarrollador **Full Stack** independiente, basado en Guatemala 🇬🇹, enfocado en construir productos que resuelven problemas reales del mercado local.
 
-Actualmente construyo **[DTEVIA](https://github.com/AlessandroLop)** (nombre técnico interno: **QAPI**) — una plataforma SaaS tipo middleware que abstrae el sistema de Facturación Electrónica en Línea (FEL) de Guatemala detrás de una API REST/JSON limpia. La idea: ser **"el Stripe de la facturación electrónica guatemalteca"**.
+Actualmente construyo **[DTEVIA](https://dtevia.com.gt)** (nombre técnico interno: **QAPI**) — una plataforma SaaS tipo middleware que abstrae el sistema de Facturación Electrónica en Línea (FEL) de Guatemala detrás de una API REST/JSON limpia. La idea: ser **"el Stripe de la facturación electrónica guatemalteca"**.
 
 - 🚀 Fundador y desarrollador solo de **DTEVIA / QAPI**
 - 🎓 Estudiante de Ingeniería en Sistemas — **UMG**, tesis de grado presentada
